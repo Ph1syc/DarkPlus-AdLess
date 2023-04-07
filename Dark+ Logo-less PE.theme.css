@@ -13,12 +13,12 @@
 @import url('https://ph1syc.github.io/Dark-Plus/dark-plus-logo-less-pe.theme.css');
 
 :root {
-  --darkplus-bg: #212121;
-  --darkplus-bg2: #302f2f;
-  --darkplus-sec: #bb86fc;
-  --darkplus-links: #cdaef3;
+  --darkplus-bg: #181818;
+  --darkplus-bg2: #2b2b2b;
+  --darkplus-sec: #aa65fd;
+  --darkplus-links: #aa65fd;
   --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/852117175212179466/discord-avatar-512-YV0PV.png);
- --watermark-filter-invert: 0%;
+  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
   --watermark-filter-hue-rotate: 210deg;
