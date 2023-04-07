@@ -10,7 +10,7 @@
   * @invite jsQ9UP7kCA
 */
 
-@import url('https://raw.githubusercontent.com/Ph1syc/devevil/main/BetterDiscordAddons/Theme/Dark%2B/Dark%2B.theme.css');
+@import url('https://ph1syc.github.io/dark-plus-logo-less.theme.css');
 
 :root {
   --darkplus-bg: #212121;
@@ -25,4 +25,8 @@
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 200%;
   --darkplus-emoji-picker-color: 210deg;
+}
+
+.wordmark-2u86JB {
+    display: none;
 }
